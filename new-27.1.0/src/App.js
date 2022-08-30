@@ -7,10 +7,10 @@ import { cols } from './cols'
 import Axios from 'axios'
 
 
-/* LicenseManager.setLicenseKey(
+LicenseManager.setLicenseKey(
     "LICENSE_STRING_GOES_HERE"
 )
- */
+
 
 export const App = () => {
 
